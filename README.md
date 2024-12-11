@@ -1,6 +1,9 @@
 # Visualization
 Plots created using Seaborn, Matplotlib, &amp; Plotly
 
+# Dataset
+Sample deals data containing 5 columns: OrderID, OrderQuantity, OrderValue, Country, & Deal Status
+
 # Installation
 !pip install seaborn
 !pip install matplotlib
