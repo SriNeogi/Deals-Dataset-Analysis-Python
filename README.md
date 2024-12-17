@@ -3,6 +3,7 @@ Plots created using Seaborn, Matplotlib
 
 # Dataset
 Sample_Data_Deals containing 5 columns: OrderID, OrderQuantity, OrderValue, Country, & Deal Status
+
 Sample_Data_Deals2 has an extra column named Industry
 
 # Installation
