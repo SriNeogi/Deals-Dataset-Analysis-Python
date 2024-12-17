@@ -2,9 +2,9 @@
 Plots created using Seaborn, Matplotlib
 
 # Dataset
-Sample_Data_Deals containing 5 columns: OrderID, OrderQuantity, OrderValue, Country, & Deal Status
+Exploratory Analysis:Sample_Data_Deals containing 5 columns: OrderID, OrderQuantity, OrderValue, Country, & Deal Status.
 
-Sample_Data_Deals2 has an extra column named Industry
+Classification: For Won/Lost deals. Done on Sample_Data_Deals2. It has an extra column named Industry.
 
 # Installation
 !pip install seaborn
