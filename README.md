@@ -1,5 +1,5 @@
 # Visualization
-Plots created using Seaborn, Matplotlib, &amp; Plotly
+Plots created using Seaborn, Matplotlib
 
 # Dataset
 Sample deals data containing 5 columns: OrderID, OrderQuantity, OrderValue, Country, & Deal Status
