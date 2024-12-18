@@ -1,16 +1,16 @@
 # Visualization & Classification
-Plots created using Seaborn, Matplotlib
+Plots were created using Seaborn,Panadas Plotting and Matplotlib.
 
-Classification done using Deep Learning models in Tensorflow
+Classification was done using Deep Learning models in Tensorflow.
 
 # Dataset
-Exploratory Analysis:Sample_Data_Deals containing 5 columns: OrderID, OrderQuantity, OrderValue, Country, & Deal Status.
-
-Classification: For Won/Lost deals. Done on Sample_Data_Deals2. It has an extra column named Industry.
+Sample_Data_Deals2 containing 6 columns: OrderID, OrderQuantity, OrderValue, Country, Industry & Deal Status. The target variable for binary prediction is Deal Status (Won=1, Lost=0).
 
 # Installation
 !pip install seaborn
+
 !pip install matplotlib
+
 !pip install pandas
 
 # Contributing
