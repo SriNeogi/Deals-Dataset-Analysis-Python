@@ -1,5 +1,7 @@
-# Visualization
+# Visualization & Classification
 Plots created using Seaborn, Matplotlib
+
+Classification done using Deep Learning models in Tensorflow
 
 # Dataset
 Exploratory Analysis:Sample_Data_Deals containing 5 columns: OrderID, OrderQuantity, OrderValue, Country, & Deal Status.
