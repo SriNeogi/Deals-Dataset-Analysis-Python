@@ -1,7 +1,7 @@
 # Visualization & Classification
 Plots were created using Seaborn,Panadas Plotting and Matplotlib.
 
-Classification was done using Deep Learning models (Sequential, DNNClassifier) in Tensorflow.
+Classification was done using Deep Learning models (Sequential) in Tensorflow.
 
 # Dataset
 Sample_Data_Deals2 containing 6 columns: OrderID, OrderQuantity, OrderValue, Country, Industry & Deal Status. The target variable for binary prediction is Deal Status (Won=1, Lost=0).
